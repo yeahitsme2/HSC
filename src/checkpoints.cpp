@@ -364,7 +364,7 @@ namespace Checkpoints
 }
 
 // HSC: sync-checkpoint master key
-const std::string CSyncCheckpoint::strMasterPubKey = "";
+const std::string CSyncCheckpoint::strMasterPubKey = "13 CD 53 6C 6E 10 68 70 05 1D A2 C1 F2 2A AB 08 26 06 1B 36";
 
 std::string CSyncCheckpoint::strMasterPrivKey = "";
 

@@ -18,7 +18,7 @@
 // HSC message start
 static unsigned char pchMessageStartMain[4] = { 0x2a, 0x35, 0xe7, 0xa3 };
 // Public testnet message start
-static unsigned char pchMessageStartTest[4] = { 0x4d, 0x54, 0x54, 0x44 };
+static unsigned char pchMessageStartTest[4] = { 0x7f, 0x8e, 0x48, 0xea };
 
 void GetMessageStart(unsigned char pchMessageStart[], bool fPersistent)
 {
